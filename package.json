@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-js-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncodingnow/ethereum-js-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoncodingnow/ethereum-js-library/issues"
+  },
+  "homepage": "https://github.com/jasoncodingnow/ethereum-js-library#readme",
+  "dependencies": {
+    "safe-buffer": "^5.1.1"
+  }
+}
